@@ -1,6 +1,5 @@
 # IDEAS
-
-# První týden programátorské přípravky:
+# Programátorská přípravka:
 - Výpočet trojúhelníku
 - Výpočet kořenu rovnice
 - Řešení rovnic
@@ -10,8 +9,6 @@
 - Anagramy
 - Piškvorky
 - Slova pozpátku
-
-# Druhý týden programátorské přípravky:
 - Kalkulačka BMI
 - Úspěšnost testů
 - Seřazení čísel
