@@ -1,14 +1,7 @@
 # IDEAS
 # Programátorská přípravka:
 - Výpočet trojúhelníku
-- Výpočet kořenu rovnice
-- Řešení rovnic
-- Cifry
-- Četnost znaků
-- Seřazení pole a medián
-- Anagramy
-- Piškvorky
-- Slova pozpátku
+- Výpočet kořenů rovnice
 - Kalkulačka BMI
 - Úspěšnost testů
 - Seřazení čísel
